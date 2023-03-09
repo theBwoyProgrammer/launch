@@ -1,3 +1,20 @@
-.App {
+.card-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   text-align: center;
+}
+
+.bottom-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 20%;
+}
+
+.description {
+  text-align: justify;
+  word-wrap: break-word;
 }
